@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://neunrg.github.io/krishna-enterprise/sitemap.xml

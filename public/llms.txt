@@ -1,0 +1,13 @@
+# Krishna Enterprise
+
+Krishna Enterprise is a stationery distribution business based in Rajkot, Saurashtra,
+Gujarat. We connect trusted stationery brands with retailers, resellers, schools,
+institutions and commercial buyers across the region, offering writing instruments,
+notebooks and paper, office essentials, files and folders, school stationery, art and
+craft, and desk accessories.
+
+- [Home](https://neunrg.github.io/krishna-enterprise/)
+- [Products & Brands](https://neunrg.github.io/krishna-enterprise/products.html)
+- [About Us](https://neunrg.github.io/krishna-enterprise/about.html)
+- [Contact & Enquiry](https://neunrg.github.io/krishna-enterprise/contact.html)
+- [Product Catalogue](https://neunrg.github.io/krishna-enterprise/catalogue/krishna-enterprise-catalogue.pdf)
